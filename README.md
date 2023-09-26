@@ -6,3 +6,4 @@
 2. Heroku account
 3. VS Code IDE
 4. GIT cli
+5. Krish Naik
